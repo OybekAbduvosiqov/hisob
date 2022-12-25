@@ -1,3 +1,3 @@
-module github.com/OybekAbduvosiqov/math
+module github.com/OybekAbduvosiqov/calc
 
 go 1.19
