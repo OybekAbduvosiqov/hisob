@@ -1,4 +1,4 @@
-package calc
+package hisob
 
 func Pow(a, b int) int {
 	res := 1

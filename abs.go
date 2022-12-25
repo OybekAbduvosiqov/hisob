@@ -1,4 +1,4 @@
-package calc
+package hisob
 
 func Abs(a int) int {
 	if a < 0 {
